@@ -5,7 +5,6 @@ import pandas as pd
 import streamlit as st
 from io import StringIO
 
-"""
 # Entrepreneurial Decision-Making
 
 Welcome :heart:
