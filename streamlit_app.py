@@ -1,11 +1,11 @@
-from collections import OrderedDict
-import altair as alt
-import math
-import pandas as pd
 import streamlit as st
+from collections import OrderedDict
 from io import StringIO
+from math import log, sqrt
+
 import numpy as np
 import pandas as pd
+
 from bokeh.plotting import figure, output_file, show
 
 antibiotics = """
