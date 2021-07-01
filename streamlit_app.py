@@ -4,6 +4,9 @@ import math
 import pandas as pd
 import streamlit as st
 from io import StringIO
+import numpy as np
+import pandas as pd
+
 
 # Entrepreneurial Decision-Making
 
@@ -11,8 +14,7 @@ Welcome :heart:
 
 
 
-import numpy as np
-import pandas as pd
+
 
 from bokeh.plotting import figure, output_file, show
 
