@@ -52,7 +52,7 @@ with col2:
             },
             "data": [{
                 "value": 66.66,
-                "name": '百分比'
+                "name": 'Speed'
             }]
         }]
     };
