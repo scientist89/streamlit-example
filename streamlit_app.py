@@ -1,7 +1,7 @@
 from streamlit_echarts import st_echarts
 import streamlit as st
 st.set_page_config(layout="wide")
-col1, col2, col3, col4, col5=st.beta_columns([0.2, 1, 0.2, 1, 0.2])
+col1, col2, col3, col4, col5=st.columns([0.2, 1, 0.2, 1, 0.2])
 with col1:
     st.empty()
 with col2:
